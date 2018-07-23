@@ -1,0 +1,22 @@
+Create deployment.yaml
+#kubectl create -f deployment.yaml
+
+cek list deployed
+#kubectl get deployment
+
+cek details of deployment
+#kubectl describe deployment nginx
+
+Create serive.yaml
+#kubectl create -f service.yaml
+
+Cek list services on machine
+#kubectl get svc
+
+Details of all the Service objects deployed 
+#kubectl describe svc nginx-service
+
+Curl app nginx with
+#curl 18.182.141.223:31234
+or
+#curl xyhombing.me:31234
