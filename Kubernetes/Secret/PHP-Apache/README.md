@@ -13,6 +13,7 @@ eHlob21iaW5n
 Selanjutnya:
 
  - Create secret.yaml
+ 
    `$ kubectl create -f secret.yaml`
  
  - Create deployment.yaml
@@ -20,6 +21,7 @@ Selanjutnya:
    `$ kubectl create -f deployment.yaml`
  
  - Create service.yaml
+   
    `$ kubectl create -f service.yaml`
    
 Finish
