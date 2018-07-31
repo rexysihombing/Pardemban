@@ -6,9 +6,11 @@
   
 ## Dimana secret tersebut Saya encode terlebih dahulu ke base64
   `$ echo -n 'admin' | base64`
+  
   YWRtaW4=
   
   `$echo -n 'xyhombing' | base64`
+  
   eHlob21iaW5n
   
   
