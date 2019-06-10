@@ -70,6 +70,8 @@ bootstrap_os none to  ubuntu
 bootstrap_os: ubuntu
 
 #ansible-playbook -i inventory/mycluster/hosts.ini -b --private-key=intern-rexy.pem cluster.yml
-#Check your host is running by command #kubectl get nodes
+#Check your host is running by command 
+#kubectl get nodes
+
 
 FINISH...!!
